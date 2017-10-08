@@ -1,0 +1,27 @@
+
+menumation-ui.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+font-export
+  rotate: false
+  xy: 1, 1
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+font-title-export
+  rotate: false
+  xy: 1, 212
+  size: 238, 238
+  orig: 238, 238
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 241, 449
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

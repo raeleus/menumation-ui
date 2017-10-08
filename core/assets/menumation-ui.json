@@ -1,0 +1,205 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	font: {
+		file: font-export.fnt
+	}
+	title: {
+		file: font-title-export.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	background: {
+		r: 0
+		g: 0.40392157
+		b: 0.627451
+		a: 1
+	}
+	white: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	background: {
+		name: white
+		color: background
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle: {
+	default: {
+		checkboxOn: white
+		checkboxOff: white
+		font: font
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: font
+	}
+	title: {
+		font: title
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: {
+	default: {
+		font: font
+		fontColorSelected: background
+		fontColorUnselected: white
+		selection: white
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: {
+		background: background
+		vScrollKnob: white
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: {
+	default: {
+		font: font
+		fontColor: white
+		scrollStyle: default
+		listStyle: default
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: font
+		fontColor: background
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default: {
+		font: font
+		fontColor: white
+		cursor: white
+		selection: background
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {
+		titleFont: title
+	}
+}
+com.ray3k.menumationui.SpineDrawable$SpineDrawableTemplate: {
+	default: {
+		topHeight: 0
+		bottomHeight: 0
+		leftWidth: 0
+		rightWidth: 0
+		minWidth: 0
+		minHeight: 0
+	}
+	button: {
+		widthBones: [
+			adjustor
+		]
+		heightBones: [
+			adjustor
+		]
+		topHeight: 10
+		bottomHeight: 10
+		leftWidth: 5
+		rightWidth: 5
+		minWidth: 10
+		minHeight: 10
+		internalPath: button.json
+	}
+	window: {
+		widthBones: [
+			background
+			title-bar
+		]
+		heightBones: [
+			background
+		]
+		topHeight: 85
+		bottomHeight: 5
+		leftWidth: 5
+		rightWidth: 5
+		minWidth: 200
+		minHeight: 200
+		internalPath: window.json
+	}
+	check-box: {
+		topHeight: 0
+		bottomHeight: 0
+		leftWidth: 0
+		rightWidth: 0
+		minWidth: 37
+		minHeight: 25
+		internalPath: check-box.json
+	}
+	radio: {
+		topHeight: 0
+		bottomHeight: 0
+		leftWidth: 0
+		rightWidth: 0
+		minWidth: 30
+		minHeight: 24
+		internalPath: radio.json
+	}
+	textfield: {
+		widthBones: [
+			line
+		]
+		topHeight: 10
+		bottomHeight: 15
+		leftWidth: 0
+		rightWidth: 0
+		minWidth: 100
+		minHeight: 25
+		internalPath: textfield.json
+	}
+	scrollbar-vertical: {
+		heightBones: [
+			scrollbar
+		]
+		topHeight: 0
+		bottomHeight: 0
+		leftWidth: 0
+		rightWidth: 0
+		minWidth: 15
+		minHeight: 10
+		internalPath: scrollbar-vertical.json
+	}
+	scrollbar-horizontal: {
+		widthBones: [
+			scrollbar
+		]
+		topHeight: 0
+		bottomHeight: 0
+		leftWidth: 0
+		rightWidth: 0
+		minWidth: 10
+		minHeight: 15
+		internalPath: scrollbar-horizontal.json
+	}
+	select-box: {
+		widthBones: [
+			bg
+			top
+			bottom
+		]
+		heightBones: [
+			bg
+			left
+			right
+		]
+		topHeight: 0
+		bottomHeight: 0
+		leftWidth: 10
+		rightWidth: 35
+		minWidth: 40
+		minHeight: 10
+		internalPath: select-box.json
+	}
+}
+}
