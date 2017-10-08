@@ -1,0 +1,768 @@
+Spine Software License Agreement
+Version 5.1
+
+This Software License Agreement ("Agreement" or "License Agreement") is a
+binding agreement between Esoteric Software ("Esoteric Software") and the
+person or entity licensing the Spine Software ("You(r)") published by Esoteric
+Software. This Agreement governs Your use of the Spine Software published
+by Esoteric Software (including all related documentation, the "Software").
+
+IMPORTANT - READ CAREFULLY ALL TERMS AND CONDITIONS OF THIS AGREEMENT PRIOR
+TO DOWNLOADING AND INSTALLING THIS SOFTWARE. BY DOWNLOADING AND INSTALLING
+THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO
+BE BOUND BY THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE,
+DO NOT DOWNLOAD AND INSTALL THE SOFTWARE.
+
+1.	License Grant. Subject to the terms of this Agreement, the terms of the
+license type selected from Exhibit A, and the payment of any applicable license
+fees, Esoteric Software grants You a limited, non-exclusive, non-sublicensable,
+and non-transferable license to download, install, execute, and perform the
+Software in machine readable object code form only and solely for internal
+use. The Software covered under this Agreement shall also include any and
+all updates, upgrades, bug fixes, or any similar revisions or improvements
+(collectively, "Updates") that may be made available to You by Esoteric
+Software from time to time. At your option and subject to the payment of
+applicable fees, Esoteric Software shall also provide to You the services
+as described by Exhibits D and E.
+
+2.	Spine Runtimes. If the Spine Essential, Professional, Enterprise,
+or Education license is selected from Exhibit A, You may modify, translate,
+adapt, or develop new applications using the Spine Runtimes or otherwise
+create derivative works or improvements of the Spine Runtimes (collectively,
+"Products"). You may market, sell, publish, distribute, or otherwise make
+available any number of Products provided that (a) the Products add significant
+and primary functionality to the Spine Runtimes and (b) the license in Exhibit
+B is included in the documentation and/or other materials provided with the
+Products. "Spine Runtimes" means all programs and data (separate from the
+Software) provided by Esoteric Software in source and binary form that are
+used to load, store, manipulate, and render animation and other data created
+by the Software.
+
+3.	Spine Enterprise. If the Spine Enterprise license is selected
+from Exhibit A, all references to "You" will be deemed to include Your
+Affiliates. "Affiliate" means any entity that directly or indirectly controls,
+is controlled by, or is under common control with You. For purposes of this
+provision, "control" of an entity means direct or indirect ownership or
+control of more than 50% of the voting interests of the subject entity.
+
+4.	Restrictions. Without Esoteric Software's written permission, You may
+not (a) copy the Software, except for backup purposes or otherwise as expressly
+permitted by this Agreement, (b) modify, translate, adapt, or otherwise create
+derivative works or improvements, whether or not patentable, of the Software,
+(c) reverse engineer, disassemble, decompile, decode, or otherwise attempt to
+derive or gain access to the source code of the Software or any part thereof
+except as and only to the extent this restriction is prohibited by law,
+(d) remove, delete, alter, or obscure any trademarks or any copyright,
+trademark, patent, or other intellectual property or proprietary rights
+notices on or in the Software, including any copy thereof, (e) rent, lease,
+lend, sell, sublicense, assign, distribute, publish, transfer, or otherwise
+make available the Software or any features or functionality of the Software
+to any third party for any reason, or (f) remove, disable, circumvent,
+or otherwise create or implement any workaround to any copy protection,
+rights management, or security features in or protecting the Software.
+
+5.	Responsibilities. You must notify Esoteric Software to keep your name
+and email address valid at all times. You agree to take appropriate measures to
+protect Your activation codes for the Software from unauthorized use. You are
+responsible for all damages arising from the use of the Software associated
+with Your activation codes in violation of this Agreement. You agree to
+promptly notify Esoteric Software in the event that You become aware of any
+actual or suspected unauthorized use of the Software. You acknowledge that
+the Software, documents, technical data, and any other materials delivered
+under this Agreement are subject to U.S. export control laws, including the
+U.S. Export Administration Act and its associated regulations, and may be
+subject to export or import regulations in other countries. You shall not,
+directly or indirectly, export, re-export, or release the Software to,
+or make the Software accessible from, any jurisdiction or country to which
+export, re-export, or release is prohibited by law, rule, or regulation. You
+acknowledge and agree that it is Your responsibility to obtain any licenses to
+export, re-export, or import the Software as may be required after delivery
+to You and You shall strictly comply with all applicable federal laws,
+regulations, and rules and complete all required undertakings (including
+obtaining any necessary export license or other governmental approval) prior to
+exporting, re-exporting, releasing, or otherwise making the Software available
+outside the U.S. You represent and warrant that You are not a person or entity
+appearing on the lists published by the U.S. Department of Commerce, the
+U.S. Department of State, the U.S. Department of Treasury, or any other list
+that may be published by the U.S. Government, as amended from time to time,
+that is prohibited from acquiring ownership or control of items under this
+Agreement or with which Esoteric Software is prohibited from doing business.
+
+6.	Third-Party Licenses. The Software includes software, content, data,
+or other materials, including related documentation, that are owned by persons
+other than Esoteric Software and that are provided to You on licensee terms
+that are in addition to and/or different from those contained in this Agreement
+("Third-Party Licenses"). A list of all materials included in the Software
+and provided under Third-Party Licenses is set forth in Exhibit C and the
+applicable Third-Party Licenses are accessible via links therefrom. You are
+bound by and agree to comply with all Third-Party Licenses. Your breach of
+any Third-Party License is also a breach of this Agreement.
+
+7.	Representations. Esoteric Software represents to You that (a)
+each and every part of the Software is either the original work of Esoteric
+Software or validly licensed by Esoteric Software from the rightsholder(s),
+(b) the Software does not infringe upon any patent, copyright, trade secret, or
+other proprietary right of others, (c) Esoteric Software has all of the rights
+necessary to grant to You the rights under this Agreement and Esoteric Software
+has not previously granted and shall not grant any rights in the Software
+to any nonparty that are inconsistent with those rights, (d) the Software
+does not include any hidden files, functionalities, or any computer virus,
+worm, logic bomb, or Trojan horse, (e) Esoteric Software has full corporate
+power to enter into this Agreement and to carry out its obligations under
+this agreement, and (f) the Software is developed and provided by Esoteric
+Software in accordance with all applicable laws and regulations.
+
+8.	Reservation of Rights. You acknowledge and agree that the Software is
+provided to You under license and not sold. You do not acquire any ownership
+interest in the Software under this Agreement or any other rights thereto other
+than to use the Software in accordance with the license granted, and subject
+to all terms, conditions, and restrictions, under this Agreement. Esoteric
+Software reserves and shall retain its entire right, title, and interest in and
+to the Software, including all copyrights, trademarks, and other intellectual
+property rights therein or relating thereto, except as expressly granted to
+You in this Agreement.
+
+9.	Updates. The Software may require Updates in order to run
+effectively. Updates are subject to the terms of this Agreement and may include
+new features, bug fixes, or the removal of features of the Software. Esoteric
+Software will provide Updates at no cost to You during the term of this
+Agreement. Updates do not increase the authorized number of computers or
+named users for Your license type.
+
+10.	Collection and Use of Information. You acknowledge that Esoteric
+Software may collect and store information regarding Your use of the
+Software. You agree that Esoteric Software may use such information only
+to the extent which is necessary to (a) verify Your compliance with this
+Agreement, (b) enforce Esoteric Software's rights in the Software, (c)
+improve the performance of the Software, and (d) develop Updates.
+
+11.	License Fees and Returns. License fees for the Software are specified
+by Esoteric Software based on the license type selected from Exhibit A and
+the optional services as described by Exhibits D and E. Annual license fees
+for Spine Enterprise and Spine Education are subject to increase at a rate
+not to exceed 10% annually. Any applicable license fees must be paid in full
+prior to downloading or using the Software. Esoteric Software may choose for
+the license fees to be paid directly or through a third party. Any applicable
+payment and use terms of such third party will apply to the transaction. You
+may request a refund of the license fees by notifying Esoteric Software
+within thirty (30) days after downloading the Software. Esoteric Software
+will refund the license fees paid by You and block Your activation codes.
+
+12.	Term and Termination. This Agreement is effective as of the date that
+Your activation codes are provided and will continue in effect for the term of
+the license type selected from Exhibit A (the "Term") unless terminated earlier
+by You or Esoteric Software as set forth in this section. You may terminate
+this Agreement by deleting the Software and all copies thereof. Esoteric
+Software may block Your activation codes or terminate this Agreement at any
+time without notice if You violate any of the terms and conditions of this
+Agreement, provided that Spine Enterprise licensees will be given no less
+than thirty (30) days' notice and an opportunity to cure prior to termination
+of this Agreement. Upon termination all rights granted to You under this
+Agreement will also terminate and You must cease all use of the Software,
+delete all copies of the Software, and cease distribution of all Products
+other than those allowed by Exhibit A, Section 3(d). Termination will not
+limit any of Esoteric Software's rights or remedies at law or in equity.
+
+13.	Infringement Indemnification. Subject to the Limitation of Liability
+in Section 15, Esoteric Software shall defend and indemnify You against
+any third-party action, suit or proceeding and any loss, damages, or costs
+incurred with regard to same in which it is determined that the Software
+infringes a United States or European Union patent or copyright.
+
+14.	Warranty and Disclaimer. For a period of ninety (90) days from the
+date that You download and install the Software (the "Warranty Period"),
+Esoteric Software warrants that the Software will operate materially in
+conformance with its documentation. Any Third-Party Licenses shall be subject
+exclusively to the licensor's warranty set forth therein. The foregoing
+warranties exclude damage or failure resulting from misuse, modification by
+anyone other than Esoteric Software, unauthorized repair or installation,
+malfunctions caused by equipment or by software not provided by Esoteric
+Software, the use of the Software on or in connection with any hardware or
+software not specified in the documentation for the Software, and the use of
+the Software in violation of this Agreement or the license type selected. You
+must notify Esoteric Software of any non-conformance within the Warranty Period
+and Your sole and exclusive remedy for any non-conformance is that Esoteric
+Software will repair or replace the Software, provided that You provide all
+information Esoteric Software reasonably requests to resolve the reported
+failure, including sufficient information to enable the Esoteric Software
+to recreate such failure. If Esoteric Software, in its sole discretion,
+determines that it is unable to repair or replace the Software within a
+commercially reasonable time, Esoteric Software will refund the fees paid
+by You for the Software, subject to Your ceasing all use of and deleting
+all copies of the Software. EXCEPT AS EXPRESSLY STATED IN THIS SECTION,
+THE SOFTWARE IS PROVIDED TO YOU "AS IS" AND "AS AVAILABLE", WITH ALL FAULTS
+AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED
+UNDER APPLICABLE LAW, ESOTERIC SOFTWARE, ON ITS OWN BEHALF AND ON BEHALF OF
+ITS LICENSORS, EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED,
+STATUTORY, OR OTHERWISE, WITH RESPECT TO THE SOFTWARE, INCLUDING ALL IMPLIED
+WARRANTIES OF DESIGN, MERCHANTABILITY, SATISFACTORY QUALITY, FITNESS FOR
+A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT, AND WARRANTIES THAT MAY
+ARISE OUT OF COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE, OR TRADE
+PRACTICE. WITHOUT LIMITATION TO THE FOREGOING, ESOTERIC SOFTWARE PROVIDES
+NO WARRANTY OR UNDERTAKING AND MAKES NO REPRESENTATION OF ANY KIND THAT
+THE SOFTWARE WILL MEET YOUR REQUIREMENTS, ACHIEVE ANY INTENDED RESULTS, BE
+COMPATIBLE OR WORK WITH ANY OTHER SOFTWARE, APPLICATIONS, SYSTEMS, OR SERVICES,
+OPERATE WITHOUT INTERRUPTION, MEET ANY PERFORMANCE OR RELIABILITY STANDARDS,
+OR BE ERROR FREE OR THAT ANY ERRORS OR DEFECTS CAN OR WILL BE CORRECTED.
+
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF OR LIMITATIONS ON IMPLIED
+WARRANTIES OR THE LIMITATIONS ON APPLICABLE STATUTORY RIGHTS, SO SOME OR
+ALL OF THE ABOVE EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU.
+
+15.	Limitation of Liability. NOTWITHSTANDING THE FORM (E.G., CONTRACT,
+TORT, OR OTHERWISE) IN WHICH ANY LEGAL OR EQUITABLE ACTION MAY BE BROUGHT,
+IN NO EVENT WILL ESOTERIC SOFTWARE BE LIABLE FOR (a) DAMAGES THAT EXCEED,
+IN THE AGGREGATE, THE AMOUNT OF FEES PAID BY YOU IN THE TWELVE (12) MONTH
+PERIOD PRIOR TO THE DATE OF THE FIRST EVENT GIVING RISE TO THE ACTION, (b)
+THE COST OF SUBSTITUTE GOODS, ANY DAMAGES BASED ON DELAY OR INABILITY TO USE
+THE SOFTWARE, LOST REVENUES OR PROFITS, LOSS OF BUSINESS OR GOODWILL, LOSS
+OR CORRUPTION OF DATA, LOSS RESULTING FROM COMPUTER FAILURE, MALFUNCTION
+OR SHUTDOWN, OR (c) ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES. THESE LIMITATIONS SHALL APPLY WHETHER OR NOT ESOTERIC SOFTWARE
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY
+FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+
+16.	Governing Law. This Agreement shall be governed by and construed
+in accordance with the internal laws of (a) the State of Washington and the
+United States without regard to conflicts of law provisions thereof if You
+are not located in the United Kingdom, Norway, Switzerland, or a member state
+of the European Union, or otherwise (b) England and Wales without regard to
+conflicts of law provisions thereof. No effect shall be given to any choice
+or conflict of law provision or rule (whether of the State of Washington,
+England, and Wales or any other jurisdiction) that would cause the application
+of laws of any jurisdiction other than those stated herein. Any legal claim,
+suit, action, or proceeding arising out of this Agreement or the matters
+contemplated hereunder or the breach thereof, whether sounding in contract,
+tort, or otherwise, shall likewise be governed by the internal laws set forth
+herein without giving effect to any choice or conflict of law provision or
+rule and shall be instituted exclusively in the federal courts of the United
+States or the courts of the State of Washington if You are not located in
+the United Kingdom, Norway, Switzerland, or a member state of the European
+Union, or otherwise the courts located in London, England and You irrevocably
+submit to the exclusive jurisdiction of such courts in any such suit, action,
+or proceeding and waive any objection based on improper venue or forum non
+conveniens.
+
+17.	Notices. For a notice or other communication under this agreement to be
+valid (a) the sending party must use email with confirmation that the receiving
+mail server accepted the email, (b) communication to or from Esoteric Software
+must use contact@esotericsoftware.com, and (c) communication to or from You
+must use the email address You have provided to Esoteric Software. You must
+notify Esoteric Software to keep your email address valid at all times. You
+are responsible for preventing emails from contact@esotericsoftware.com
+from being marked as spam or otherwise filtered. A valid notice or other
+communication under this agreement will be effective when accepted by the
+receiving mail server.
+
+18.	Assignment. Esoteric Software may subcontract this Agreement, or
+any part thereof, including support, to subcontractors selected by Esoteric
+Software and may freely assign or otherwise transfer all or any of its
+rights, or delegate or otherwise transfer all or any of its obligations or
+performance, under this Agreement without Your consent. You may not assign or
+otherwise transfer any of Your rights, or delegate or otherwise transfer any
+of Your obligations under this Agreement, in each case whether voluntarily,
+involuntarily, by operation of law, or otherwise, without Esoteric Software's
+prior written consent. This Agreement is binding upon and inures to the benefit
+of the parties hereto and their respective permitted successors and assigns.
+
+19.	General Terms. This Agreement constitutes the sole and entire
+agreement between the parties with respect to the Software and Spine Runtimes
+and supersedes all prior and contemporaneous understandings, agreements,
+representations, and warranties, both written and oral, with respect to the
+Software and Spine Runtimes. This Agreement may only be amended, modified
+or supplemented by an agreement in writing by non-preprinted agreements
+clearly understood by both parties to be an amendment and signed by each
+party hereto. No waiver by either party of any of the provisions hereof
+shall be effective unless explicitly set forth in writing and signed by
+the party so waiving. Except as otherwise set forth in this Agreement,
+no failure to exercise, or delay in exercising, any right, remedy, power,
+or privilege arising from this Agreement shall operate or be construed as
+a waiver thereof; nor shall any single or partial exercise of any right,
+remedy, power, or privilege hereunder preclude any other or further exercise
+thereof or the exercise of any other right, remedy, power, or privilege. If
+any provision of this Agreement shall be adjudged by any court of competent
+jurisdiction to be illegal, unenforceable, or invalid, that provision shall be
+limited or eliminated to the minimum extent necessary so that this Agreement
+shall otherwise remain in full force and effect and enforceable, but shall
+not affect any other term or provision of this Agreement or invalidate or
+render unenforceable such term or provision in any other jurisdiction. You
+acknowledge and agree that a material breach of this Agreement would cause
+irreparable injury to Esoteric Software for which monetary damages would
+not be an adequate remedy and that, in the event of any actual or threatened
+material breach of this Agreement by You, Esoteric Software shall be entitled
+to temporary, preliminary, and permanent injunctive relief against You and
+Your officers or employees, without the requirement of posting a bond or
+proving actual damages, in addition to whatever remedies Esoteric Software
+might have at law.
+
+
+Exhibit A
+
+Spine License Types
+
+1.	Spine Trial License.
+
+	(a)	You are authorized to use the available functions of the
+	trial version of the Software exclusively for the purpose of testing
+	and evaluating the Software.
+
+2.	Spine Essential License / Spine Professional License.
+
+	(a)	This license is applicable to an entity with annual revenues
+	of less than $500,000 USD or equivalent foreign currency. The license
+	becomes invalid if annual revenues exceed this amount at any time,
+	in which case the Spine Enterprise License is required else You must
+	cease all use of the Software and cease distribution of all Products
+	other than those allowed by Exhibit A, Section 3(d).
+
+	(b)	A single named user is authorized to use the corresponding
+	Essential or Professional version of the Software with the provided
+	activation code. Use of the Software by anyone other than the named
+	user is expressly prohibited. The activation code may not be in use
+	on more than two computers at the same time.
+
+	(c)	The Spine Runtimes are provided subject to Section 2 of the
+	License Agreement.
+
+3.	Spine Enterprise License.
+
+	(a)	You are authorized to use the Professional version of the
+	Software with the provided activation code for the number of users
+	provisioned. A server or otherwise shared installation where the
+	number of users is not strictly controlled is prohibited. The number
+	of computers on which the Software is in use must not exceed the
+	number of users provisioned. Alternatively, upon request a floating
+	network license option will be enabled, allowing the Software to be
+	installed on any number of computers with the restriction that it
+	may only be run concurrently on the number of computers provisioned.
+
+	(b)	This license is valid for 1 year from the date that Your
+	activation codes are provided and must be renewed annually else You
+	must cease all use of the Software and cease distribution of all
+	Products other than those allowed by Exhibit A, Section 3(d).
+
+	(c)	The Spine Runtimes are provided subject to Section 2 of the
+	License Agreement.
+
+	(d)	At any time, You may pay the applicable one-time, per-Product
+	license fee (the "Product License Fee") for each Product, pursuant to
+	which Esoteric Software hereby grants you a perpetual, royalty-free,
+	fully paid-up, non-exclusive, and sublicensable license to use
+	the Spine Runtimes in accordance with Section 2 of the License
+	Agreement for such Product. Each such Product License Fee shall
+	cover substantially similar versions of such Product, allowing for
+	incremental improvements, multiple releases for different platforms
+	and regions, and different language versions.
+
+4.	Spine Education License.
+
+	(a)	This license is applicable to an entity which is an accredited
+	institution organized and operated exclusively for the purpose of
+	teaching its enrolled students with 5 or more full-time equivalent
+	employees or students.
+
+	(b)	All faculty members and enrolled students are authorized
+	to use the Professional version of the Software with the provided
+	activation code on the number of computers provisioned. The number of
+	computers on which the Software is in use must not exceed the number
+	of computers provisioned. Alternatively, upon request a floating
+	network license option will be enabled, allowing the Software to be
+	installed on any number of computers with the restriction that it
+	may only be run concurrently on the number of computers provisioned.
+
+	(c)	This license is valid for 1 year from the date that Your
+	activation codes are provided and must be renewed annually else You
+	must cease all use of the Software and cease distribution of all
+	Products other than those allowed by Exhibit A, Section 3(d).
+
+	(d)	All faculty members and enrolled students are authorized to
+	use the Spine Runtimes subject to Section 2 of the License Agreement
+	and the Software for non-commercial use only. Use intended for or
+	directed toward monetary compensation or commercial advantage is
+	prohibited. A Spine Essential, Spine Professional, or Spine Enterprise
+	License is required for commercial use.
+
+
+Exhibit B
+
+Spine Runtimes Software License v2.5
+
+Copyright (c) 2013-2016, Esoteric Software
+All rights reserved.
+
+You are granted a perpetual, non-exclusive, non-sublicensable, and
+non-transferable license to use, install, execute, and perform the Spine
+Runtimes software and derivative works solely for personal or internal
+use. Without the written permission of Esoteric Software (see Section 2 of
+the Spine Software License Agreement), you may not (a) modify, translate,
+adapt, or develop new applications using the Spine Runtimes or otherwise
+create derivative works or improvements of the Spine Runtimes or (b) remove,
+delete, alter, or obscure any trademarks or any copyright, trademark, patent,
+or other intellectual property or proprietary rights notices on or in the
+Software, including any copy thereof. Redistributions in binary or source
+form must include this license and terms.
+
+THIS SOFTWARE IS PROVIDED BY ESOTERIC SOFTWARE "AS IS" AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+EVENT SHALL ESOTERIC SOFTWARE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, BUSINESS INTERRUPTION, OR LOSS OF
+USE, DATA, OR PROFITS) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER
+IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGE.
+
+
+Exhibit C
+
+Third-Party Licenses
+
+1.	Software. The following Third-Party Licenses are used by the Software:
+
+	Apache 2.0  http://www.apache.org/licenses/LICENSE-2.0.html
+
+		libgdx
+		Copyright (c) 2011-2016 Mario Zechner, Nathan Sweet
+
+		Objenesis
+		Copyright (c) 2006-2013 The original author or authors.
+
+		XFileDialog
+		Copyright (c) 2010 XFileDialog
+
+	Creative Commons BY 3.0  http://creativecommons.org/licenses/by/3.0/
+
+		Monte Media Library
+		Copyright (c) 2012, All rights reserved. Werner Randelshofer
+
+	GPL v2 w/ Classpath Exception
+	http://openjdk.java.net/legal/gplv2+ce.html
+
+		OpenJDK (Windows, Linux)
+		Copyright (c) Various
+
+	MIT  http://opensource.org/licenses/mit-license.html
+	
+		SLF4J
+		Copyright (c) 2004-2013, All rights reserved. QOS.ch
+
+	New BSD  http://opensource.org/licenses/BSD-3-Clause
+
+		ASM
+		Copyright (c) 2000-2011 INRIA, France Telecom
+
+		Continuations
+		Copyright (c) 2008, All rights reserved. Matthias Mann
+
+		continuationslib
+		Copyright (c) 2012, All rights reserved. Enhanced Four
+
+		LWJGL
+		Copyright (c) 2002-2007 Lightweight Java Game Library Project
+
+		Kryo
+		Copyright (c) 2008-2016, All rights reserved. Nathan Sweet
+
+		Poly2Tri
+		Copyright (c) 2009-2010, All rights reserved. Poly2Tri
+		contributors
+
+	Oracle Binary Code License  http://java.com/license
+
+		Java (Mac)
+		Copyright (c) 1993, 2013, All rights reserved. Oracle and/or
+		its affiliates
+
+	SIL Open Font License 1.1  http://scripts.sil.org/OFL
+
+		Noto Sans
+		Copyright (c) 2012, All rights reserved. Google Inc.
+
+	Zlib  http://opensource.org/licenses/Zlib
+
+		GLFW
+		Copyright (c) 2002-2006 Marcus Geelnard
+		Copyright (c) 2006-2011 Camilla Berglund
+
+2.	Spine Runtimes. The following Third-Party Licenses are used by the
+Spine Runtimes:
+
+	MIT  https://opensource.org/licenses/mit-license.php
+
+		cJSON (spine-c)
+		Copyright (c) 2009 Dave Gamble
+
+		dkjson (spine-lua)
+		Copyright (c) 2010, 2011, 2012 David Heiko Kolf
+
+		SharpJson (spine-csharp)
+		Copyright (c) 2016 Patrick van Bergen
+		Copyright (c) 2016 Adriano Tinoco d'Oliveira Rezende
+
+		System.Collections.Generic.List (spine-csharp)
+		Copyright (c) 2004-2005 Novell, Inc (http://www.novell.com)
+		Copyright (c) 2005 David Waite
+
+	Microsoft Public License  https://opensource.org/licenses/MS-PL
+
+		SpriteBatch (spine-xna)
+		Copyright (c) 2009 The MonoGame Team
+
+
+Exhibit D
+
+Spine Support Services Agreement
+Version 1.2
+
+Subject to the terms and conditions in this Support Services Agreement
+("Support Agreement") and the payment of all applicable fees, Esoteric Software
+will provide the following support services for the Software and the Spine
+Runtimes for the Term defined by Section 12 of the License Agreement.
+
+1.	Performance of Services.
+
+	(a)	General Obligations. Esoteric Software shall use reasonable
+	best efforts in performing the Services to (i) avoid any adverse
+	impact on Your business, operations, financial condition, and/or
+	prospects, (ii) not degrade the services then being received by You
+	from other third parties or provided internally by You, (iii) ensure
+	that all Your systems are successfully integrated, interfaced, and
+	compatible with the Services and that adequate and appropriate (as
+	determined by You) architectural functions and structural integration
+	exists between and among Your systems and the Services such that
+	the Services have the capability to communicate, execute programs,
+	or transfer data seamlessly, and (iv) ensure that the Services do
+	not adversely affect the Your systems, whether as to functionality,
+	speed, interconnectivity, reliability, availability, performance,
+	response times, or similar measures.
+
+	(b)	Notice of Risk. Prior to undertaking any Services-related
+	activity or task, Esoteric Software shall discuss with You all known
+	material risks and shall not proceed with such activity or task
+	until You are satisfied with the plans with regard to such risks
+	(provided, however, that neither Esoteric Software's disclosure of
+	any such risks to You, nor Your acquiescence in Esoteric Software's
+	plans shall operate or be construed as limiting Esoteric Software's
+	responsibilities under this Support Agreement). Esoteric Software
+	shall identify and resolve any problems that may impede or delay
+	the timely completion of each task that is Esoteric Software's
+	responsibility and shall use its reasonable best efforts to assist
+	You with the resolution of any problems that may impede or delay
+	the timely completion of each task that is Your responsibility.
+
+2.	Definitions.
+
+	(a)	"Acknowledgement" consists of an acknowledgement by Esoteric
+	Software to You, via email or telephone during Business Hours, or
+	upon acknowledgement at any time with respect to a Critical Issue
+	if You have used emergency response methods provided by Esoteric
+	Software to report such Critical Issue, as to the receipt of the
+	problem as reported by You or actual knowledge by Esoteric Software
+	and a confirmation of the problem severity.
+
+	(b)	"Business Hours" means 10:00 AM to 6:00 PM Central European
+	Summer Time (CEST), Monday through Friday, excluding public holidays.
+
+	(c)	"Closure" consists of providing a permanent correction of
+	the applicable Issue including Updates of the Software and revised or
+	new documentation related thereto. If a Closure cannot be completed
+	within the time periods specified, Esoteric Software shall provide
+	a fix plan and shall work diligently with You on a continuous basis
+	until Closure is achieved.
+
+	(d)	"Error" means an error, flaw, mistake, failure, or fault in
+	the Software that produces an incorrect or unexpected result, causes
+	it to behave in unintended ways, or any failure of the Software to
+	conform to documentation or other specifications communicated by
+	Esoteric Software to You.
+
+	(e)	"Expected Performance Level" means a percentage obtained
+	using the following calculation: (1 – (Unexcused Downtime /
+	(Scheduled Hours – Excused Downtime)). The Expected Performance
+	Level for the Software shall be 98%.
+
+	(f)	"Excused Downtime" means the aggregate total of 60 minutes
+	per month times the number of months during which any component of the
+	Service is not available. Excused Downtime shall not include periods
+	when the Service is not available that are directly attributable
+	to Your failure to perform or improper performance of Your express
+	responsibilities under this Support Agreement.
+
+	(g)	"General Support Services" means (i) basic and advanced use
+	of the Software and Spine Runtimes, (ii) advice on content creation,
+	workflow, organization, and best practices for the Software and
+	Spine Runtimes, (iii) guidance on the use of the Spine Runtimes APIs
+	and integration of the Spine Runtimes into applications, and (iv)
+	advice and assistance for performance tuning regarding the Spine
+	Runtimes, unless application code review is required to accomplish
+	such assistance. Support does not include any application code review
+	or support for Your application.
+
+	(h)	"Maintenance Window" means a period of time when the Service
+	may not be available due to scheduled maintenance not to exceed 4
+	hours within the hours of 12:00 AM to 4:00 AM CEST (unless otherwise
+	agreed by the parties) in any given thirty (30) day period.
+
+	(i)	"Performance Incident" means significant bandwidth and
+	latency issues that render the Software unusable or difficult to
+	use that last more than 60 minutes.
+
+	(j)	"Remote Support" means voice over IP, instant messaging,
+	screen sharing, or the like.
+
+	(k)	"Resolution" consists of using reasonable best efforts to
+	provide an existing correction or a new correction to You.
+
+	(l)	"Scheduled Hours" means the total number of hours in any
+	given measurement period. For example, in a month with 30 days,
+	the Scheduled Hours shall be 720 hours (30 x 24).
+
+	(m)	"Service Interruption" means the Software is completely
+	inaccessible.
+
+	(n)	"Status Report" consists of regular communications to You
+	via email or phone as to the status of the problem determination,
+	resolution, and, in the case of Critical Issues and Major Issues,
+	the root cause.
+
+	(o)	"Unexcused Downtime" during any measurement period means
+	the number of hours, other than Excused Downtime, during which any
+	component of the Services is not available.
+
+3.	Description of Services.
+
+	(a)	Availability. In providing the Services to You, Esoteric
+	Software shall ensure that the Licensed Software is (a) fully
+	operational, (b) functioning properly without any degradation
+	in performance, and (c) fully accessible to You, Your Affiliates,
+	and each of their suppliers and vendors (collectively, "Available")
+	during the Scheduled Hours. Esoteric Software shall provide to You
+	the Services at the Expected Performance Level specified in this
+	Support Agreement.
+
+	(b)	Error-Correction. Esoteric Software shall promptly correct
+	and fix any Error to Your reasonable satisfaction. Upon request,
+	Esoteric Software will provide to You a report on all reported
+	Errors including (a) the number of Errors reported, (b) the dates
+	Errors were reported, and (c) status reports of all live Errors or
+	the resolution date of resolved Errors.
+
+	(c)	Remote Support. Esoteric Software shall provide telephone,
+	e-mail, remote access, and online support during Business Hours and 24
+	hour telephone support for Critical Issues to You and Your Affiliates
+	to (a) address, record, and resolve any Service Interruptions,
+	Performance Incidents, Errors, or other technical problems in the
+	Software (each, an "Issue"), and (b) address and resolve questions
+	regarding the functions and features of the Software (e.g., asking
+	how to do something or what something means), (collectively, the
+	"Remote Support"). You must use commercially reasonable efforts to
+	diagnose and resolve any issues prior to initiating a Remote Support
+	request. You may initiate any number of Critical Issues. You may
+	initiate twenty (20) Major or Minor Issues within a twelve (12)
+	month period, beyond which each Major or Minor Issue initiated is
+	charged the applicable fee, due at the end of the Term.
+
+		(i)	General Support. Esoteric Software shall at all times
+		maintain a general telephone line to address any Issue that
+		may arise (the "General Support").
+
+		(ii)	Escalation Support. If Esoteric Software is unable
+		to resolve the Issue within the Escalation Timeframes set
+		forth in this Support Agreement, Esoteric Software shall
+		ensure that a senior technician is available to address the
+		Issue and provide remote access and telephone support (the
+		"Escalation Support").
+
+		(iii)	Direct Critical Issue Support. Esoteric Software shall
+		ensure that a senior technician is available to address any
+		Critical Issue and provide telephone and remote access support
+		(the "Direct Critical Issue Support").
+
+4.	Resolution of Issues and Response Timeframes. Esoteric Software
+shall use reasonable best efforts to promptly address any Issue within
+the time frames specified in this Support Agreement based on the Severity
+Levels defined herein. Esoteric Software shall transfer an adequate amount of
+resources from the development team to the support team to ensure knowledge
+of the new features in any new releases is readily available to handle any
+Issue that may arise.
+
+	(a)	Definition of Issues. Severity Levels:
+
+		(i)	Critical Issue: The Software is inoperable or severely
+		impacts Your ability to use the Software in conformance with
+		its documentation.
+
+		(ii)	Major Issue: An unplanned interruption or a reduction
+		in quality of Your ability to use the Software in conformance
+		with its documentation.
+
+		(iii)	Minor Issue: The Software is immaterially adversely
+		affected by an Issue therein.
+
+	(b)	Issue Reporting. You shall make available to Esoteric
+	Software reasonable issue reproduction instructions and any data
+	required for reproduction, including but not limited to, a sequence
+	of user actions taken in the Software, project files, exported data
+	files, images, and other project assets, and self-contained code
+	demonstrating issues in the Spine Runtimes. You shall ensure that
+	a senior technician or artist is available for further inquiries
+	about the reported issue during the Resolution timeframe.
+
+	(c)	Response Timeframes.
+
+		(i) Critical Issue.
+
+			Acknowledgement from Esoteric Software: 15 minutes
+			Status Reports from Esoteric Software: Hourly
+			Escalation Timeframe: 1 hour from Acknowledgement*
+			Resolution: 4 hours from Acknowledgement
+			Closure: 8 hours from Acknowledgement
+
+			*If Esoteric Software fails to provide a timely
+			acknowledgement, Escalation, Resolution, and Closure
+			timeframes shall begin on the Acknowledgement
+			deadline.
+
+		(ii) Major Issue.
+
+			Acknowledgement from Esoteric Software: 1 hour
+			Status Reports from Esoteric Software: Daily
+			Escalation Timeframe: 2 hours from Acknowledgement
+			Resolution: 8 hours from Acknowledgement
+			Closure: 16 hours from Acknowledgement
+
+		(iii) Minor Issue.
+
+			Acknowledgement from Esoteric Software: 1 day
+			Status Reports from Esoteric Software: 3 days
+			Escalation Timeframe: 1 day from Acknowledgement
+			Resolution: 7 days from Acknowledgement
+			Closure: 30 days from Acknowledgement
+
+
+Exhibit E
+
+Spine Source Code Escrow
+Version 1.2
+
+Subject to payment of all applicable fees, Esoteric Software or its escrow
+agent shall provide to You, within fourteen (14) days after receipt of Your
+written request therefor, a Source Code Deposit Agreement which provides one
+(1) complete copy of the source code used in the preparation of the Software,
+brought up to date as of the date of delivery of such source code to You,
+and any remaining documentation and know-how required for its effective and
+continued use not previously provided to You, upon the occurrence of any
+one (1) or more of the following events: (a) Esoteric Software permanently
+discontinues it business because of bankruptcy, receivership, liquidation, or
+other form of permanent business disruption and such business is not continued
+by another successor in interest to Esoteric Software, or (b) the failure,
+by Esoteric Software, following not less than sixty (60) days prior written
+notice from You, to support the Software adequately pursuant to the License
+Agreement. Upon taking possession of the source code hereunder, You agree
+that such source code shall be subject to the restrictions on transfer, sale,
+and reproduction placed on the Software itself by the License Agreement and
+that Your use of the Software source code is restricted to maintaining Your
+copy of the Software. You agree that the Software source code is confidential
+and You shall take all reasonable precautions to protect the source code and
+preserve its confidential, proprietary, and trade secret status in perpetuity.
